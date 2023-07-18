@@ -1,0 +1,165 @@
+# Query: http://aedicium-landing.test/
+# ContextLines: 1
+
+116 results - 1 file
+
+public/wp-content/endurance-page-cache/_index.html:
+   10  <link rel='dns-prefetch' href='//s.w.org' />
+   11: <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Feed" href="/feed/" />
+   12: <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Feed de los comentarios" href="/comments/feed/" />
+   13: <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Comentario Inicio del feed" href="/sample-page/feed/" />
+   14  <script>
+
+   32  </style>
+   33: 	<link rel='stylesheet' id='wp-block-library-css'  href='/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' media='all' />
+   34  <style id='depicter-slider-style-inline-css'>
+
+   54  </style>
+   55: <link rel="preload" as="style" onload="this.rel='stylesheet';this.onload=null" id='depicter--front-common-css'  href='/wp-content/plugins/depicter/resources/styles/player/depicter.css?ver=1.3.1' media='all' />
+   56  <link rel='stylesheet' id='depicter-1-google-font-css'  href='https://fonts.googleapis.com/css?family=Josefin+Sans%3A600%7CPoppins%3A400&#038;display=swap&#038;ver=6.0.2' media='all' />
+   57: <link rel='stylesheet' id='depicter-1-custom-css'  href='/wp-content/uploads/depicter/css/1.css?ver=1689707632' media='all' />
+   58: <link rel='stylesheet' id='hello-elementor-css'  href='/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1' media='all' />
+   59: <link rel='stylesheet' id='hello-elementor-theme-style-css'  href='/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1' media='all' />
+   60: <link rel='stylesheet' id='elementor-frontend-css'  href='/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.5' media='all' />
+   61: <link rel='stylesheet' id='elementor-post-7-css'  href='/wp-content/uploads/elementor/css/post-7.css?ver=1689707632' media='all' />
+   62: <link rel='stylesheet' id='elementor-icons-css'  href='/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' media='all' />
+   63: <link rel='stylesheet' id='elementor-pro-css'  href='/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.6' media='all' />
+   64: <link rel='stylesheet' id='font-awesome-5-all-css'  href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.7.5' media='all' />
+   65: <link rel='stylesheet' id='font-awesome-4-shim-css'  href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.7.5' media='all' />
+   66: <link rel='stylesheet' id='elementor-global-css'  href='/wp-content/uploads/elementor/css/global.css?ver=1689707632' media='all' />
+   67: <link rel='stylesheet' id='elementor-post-2-css'  href='/wp-content/uploads/elementor/css/post-2.css?ver=1689707632' media='all' />
+   68: <link rel='stylesheet' id='elementor-post-216-css'  href='/wp-content/uploads/elementor/css/post-216.css?ver=1689707632' media='all' />
+   69: <link rel='stylesheet' id='elementor-post-443-css'  href='/wp-content/uploads/elementor/css/post-443.css?ver=1689707632' media='all' />
+   70  <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Josefin+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.0.2' media='all' />
+   71: <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+   72: <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+   73: <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+   74: <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+   75: <script src='/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+   76: <script src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+   77: <script src='/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.7.5' id='font-awesome-4-shim-js'></script>
+   78: <link rel="https://api.w.org/" href="/wp-json/" /><link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+   79: <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+   80  <meta name="generator" content="WordPress 6.0.2" />
+   81: <link rel="canonical" href="/" />
+   82: <link rel='shortlink' href='/' />
+   83: <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faedicium-landing.test%2F" />
+   84: <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faedicium-landing.test%2F&#038;format=xml" />
+   85  			<meta name="theme-color" content="#F0F0EE">
+   86: 			<link rel="icon" href="/wp-content/uploads/2022/08/cropped-favicon-32x32.png" sizes="32x32" />
+   87: <link rel="icon" href="/wp-content/uploads/2022/08/cropped-favicon-192x192.png" sizes="192x192" />
+   88: <link rel="apple-touch-icon" href="/wp-content/uploads/2022/08/cropped-favicon-180x180.png" />
+   89: <meta name="msapplication-TileImage" content="/wp-content/uploads/2022/08/cropped-favicon-270x270.png" />
+   90  </head>
+
+  104  			<style>/*! elementor - v3.7.5 - 14-09-2022 */
+  105: .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="400" height="231" src="/wp-content/uploads/2022/08/logo-top-claro.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/08/logo-top-claro.png 400w, /wp-content/uploads/2022/08/logo-top-claro-300x173.png 300w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+  106  				</div>
+
+  112  				<div class="elementor-widget-container">
+  113: 			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+  114: 				<ul id="menu-1-428c069" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active">Inicio</a></li>
+  115  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor">Demo</a></li>
+
+  122  			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+  123: 				<ul id="menu-2-428c069" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Inicio</a></li>
+  124  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor" tabindex="-1">Demo</a></li>
+
+  139  				<div class="elementor-widget-container">
+  140: 															<img width="400" height="231" src="/wp-content/uploads/2022/08/logo-top.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/08/logo-top.png 400w, /wp-content/uploads/2022/08/logo-top-300x173.png 300w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+  141  				</div>
+
+  148  						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
+  149: 				<ul id="menu-1-3089d00" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active">Inicio</a></li>
+  150  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor">Demo</a></li>
+
+  157  			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+  158: 				<ul id="menu-2-3089d00" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Inicio</a></li>
+  159  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor" tabindex="-1">Demo</a></li>
+
+  200  <picture data-animation-in="{'direction':'right','easing':'easeInOutExpo','duration':2500,'movement':{'value':133,'unit':'px'},'type':'move'}" data-animation-out="{'direction':'right','easing':'easeInOutCubic','duration':1600,'movement':{'value':60,'unit':'px'},'type':'move'}" data-mobile-animation-in="{'direction':'right','easing':'easeInOutExpo','duration':2500,'movement':{'value':133,'unit':'px'},'type':'move'}" id="depicter-1-element-26" class="depicter-element depicter-layer depicter-1-element-26" data-type="image" data-wrap="true" data-name="Image 8" data-offset="x:2px;y:68px;origin:mr" data-tablet-offset="x:0px;y:38px;origin:mr" data-mobile-offset="x:0px;y:214px;origin:mr" data-width="602px,499px,249px" data-height="752px,624px,311px" data-responsive-scale="true,," data-crop="false">
+  201: <source data-depicter-srcset="/wp-content/uploads/2022/08/mobile-249x311.png, /wp-content/uploads/2022/08/mobile-498x622.png 2x" media="(max-width: 767px)"></source>
+  202  
+  203: <source data-depicter-srcset="/wp-content/uploads/2022/08/mobile-499x624.png, /wp-content/uploads/2022/08/mobile-998x1248.png 2x" media="(max-width: 1024px)"></source>
+  204  
+  205: <source data-depicter-srcset="/wp-content/uploads/2022/08/mobile-602x752.png, /wp-content/uploads/2022/08/mobile-1204x1504.png 2x" media="(min-width: 1025px)"></source>
+  206: <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-depicter-src="/wp-content/uploads/2022/08/mobile-602x752.png" alt="" />
+  207  </picture>
+
+  220  <picture data-animation-in="{'direction':'right','easing':'easeInOutExpo','duration':2500,'movement':{'value':133,'unit':'px'},'type':'move'}" data-animation-out="{'direction':'right','easing':'easeInOutCubic','duration':1600,'movement':{'value':60,'unit':'px'},'type':'move'}" data-mobile-animation-in="{'direction':'right','easing':'easeInOutExpo','duration':2500,'movement':{'value':133,'unit':'px'},'type':'move'}" id="depicter-1-element-13" class="depicter-element depicter-layer depicter-1-element-13" data-type="image" data-wrap="true" data-name="Image 4" data-offset="x:1px;y:79px;origin:mr" data-mobile-offset="x:0px;y:200px;origin:mr" data-width="513px,,234px" data-height="729px,,333px" data-responsive-scale="true,," data-crop="false">
+  221: <source data-depicter-srcset="/wp-content/uploads/2022/08/man-final-234x333.png, /wp-content/uploads/2022/08/man-final-468x666.png 2x" media="(max-width: 767px)"></source>
+  222  
+  223: <source data-depicter-srcset="/wp-content/uploads/2022/08/man-final-513x729.png, /wp-content/uploads/2022/08/man-final-1026x1458.png 2x" media="(min-width: 768px)"></source>
+  224: <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-depicter-src="/wp-content/uploads/2022/08/man-final-513x729.png" alt="" />
+  225  </picture>
+
+  359  				<div class="elementor-widget-container">
+  360: 															<img width="513" height="729" src="/wp-content/uploads/2022/09/woman1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/09/woman1.jpg 513w, /wp-content/uploads/2022/09/woman1-211x300.jpg 211w, /wp-content/uploads/2022/09/woman1-200x284.jpg 200w" sizes="(max-width: 513px) 100vw, 513px" />															</div>
+  361  				</div>
+
+  367  				<div class="elementor-widget-container">
+  368: 			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
+  369  					<div class="elementor-cta__bg-wrapper">
+  370: 				<div class="elementor-cta__bg elementor-bg" style="background-image: url(/wp-content/uploads/2022/09/bg-contometro-1.jpg);"></div>
+  371  				<div class="elementor-cta__bg-overlay"></div>
+
+  400  				<div class="elementor-widget-container">
+  401: 			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css">		<div class="elementor-flip-box">
+  402  			<div class="elementor-flip-box__layer elementor-flip-box__front">
+
+  624  				<div class="elementor-widget-container">
+  625: 															<img width="234" height="152" src="/wp-content/uploads/2022/08/logo-footer.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+  626  				</div>
+
+  632  				<div class="elementor-widget-container">
+  633: 			<link rel="stylesheet" href="/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+  634  						<div class="elementor-icon-box-icon">
+
+  712  																<a href="http://www.imperiosdigitales.com/" target="_blank">
+  713: 							<img width="381" height="24" src="/wp-content/uploads/2022/08/imperio.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+  714  															</div>
+
+  732  				<div class="elementor-widget-container">
+  733: 															<img width="936" height="1712" src="/wp-content/uploads/2022/09/popup-Contometro.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/09/popup-Contometro.png 936w, /wp-content/uploads/2022/09/popup-Contometro-164x300.png 164w, /wp-content/uploads/2022/09/popup-Contometro-560x1024.png 560w, /wp-content/uploads/2022/09/popup-Contometro-768x1405.png 768w, /wp-content/uploads/2022/09/popup-Contometro-840x1536.png 840w, /wp-content/uploads/2022/09/popup-Contometro-200x366.png 200w" sizes="(max-width: 936px) 100vw, 936px" />															</div>
+  734  				</div>
+
+  746  				<div class="elementor-widget-container">
+  747: 															<img width="1280" height="478" src="/wp-content/uploads/2022/09/pop-up-Pago-Multibanco.jpeg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/09/pop-up-Pago-Multibanco.jpeg 1280w, /wp-content/uploads/2022/09/pop-up-Pago-Multibanco-300x112.jpeg 300w, /wp-content/uploads/2022/09/pop-up-Pago-Multibanco-1024x382.jpeg 1024w, /wp-content/uploads/2022/09/pop-up-Pago-Multibanco-768x287.jpeg 768w, /wp-content/uploads/2022/09/pop-up-Pago-Multibanco-200x75.jpeg 200w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+  748  				</div>
+
+  760  				<div class="elementor-widget-container">
+  761: 															<img width="738" height="1224" src="/wp-content/uploads/2022/09/Modulo.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/09/Modulo.jpg 738w, /wp-content/uploads/2022/09/Modulo-181x300.jpg 181w, /wp-content/uploads/2022/09/Modulo-617x1024.jpg 617w, /wp-content/uploads/2022/09/Modulo-200x332.jpg 200w" sizes="(max-width: 738px) 100vw, 738px" />															</div>
+  762  				</div>
+
+  774  				<div class="elementor-widget-container">
+  775: 															<img width="1440" height="2560" src="/wp-content/uploads/2022/09/popup-Gestor-de-visitas-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/2022/09/popup-Gestor-de-visitas-scaled.jpg 1440w, /wp-content/uploads/2022/09/popup-Gestor-de-visitas-169x300.jpg 169w, /wp-content/uploads/2022/09/popup-Gestor-de-visitas-576x1024.jpg 576w, /wp-content/uploads/2022/09/popup-Gestor-de-visitas-768x1365.jpg 768w, /wp-content/uploads/2022/09/popup-Gestor-de-visitas-864x1536.jpg 864w, /wp-content/uploads/2022/09/popup-Gestor-de-visitas-1152x2048.jpg 1152w, /wp-content/uploads/2022/09/popup-Gestor-de-visitas-200x355.jpg 200w" sizes="(max-width: 1440px) 100vw, 1440px" />															</div>
+  776  				</div>
+
+  781  						</div>
+  782: 		<link rel='stylesheet' id='elementor-post-957-css'  href='/wp-content/uploads/elementor/css/post-957.css?ver=1689707633' media='all' />
+  783: <link rel='stylesheet' id='elementor-post-1130-css'  href='/wp-content/uploads/elementor/css/post-1130.css?ver=1689707633' media='all' />
+  784: <link rel='stylesheet' id='elementor-post-965-css'  href='/wp-content/uploads/elementor/css/post-965.css?ver=1689707633' media='all' />
+  785: <link rel='stylesheet' id='elementor-post-973-css'  href='/wp-content/uploads/elementor/css/post-973.css?ver=1689707633' media='all' />
+  786: <script defer src='/wp-content/plugins/depicter/resources/scripts/player/depicter.js?ver=1.3.1' id='depicter--player-js'></script>
+  787: <script src='/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
+  788: <script src='/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+  789: <script src='/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.6' id='elementor-pro-webpack-runtime-js'></script>
+  790: <script src='/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.5' id='elementor-webpack-runtime-js'></script>
+  791: <script src='/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.5' id='elementor-frontend-modules-js'></script>
+  792: <script src='/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+  793: <script src='/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+  794: <script src='/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+  795: <script src='/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94' id='wp-i18n-js'></script>
+  796  <script id='wp-i18n-js-after'>
+
+  801  </script>
+  802: <script src='/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.6' id='elementor-pro-frontend-js'></script>
+  803: <script src='/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+  804: <script src='/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+  805  <script id='elementor-frontend-js-before'>
+
+  807  </script>
+  808: <script src='/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.5' id='elementor-frontend-js'></script>
+  809: <script src='/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.6' id='pro-elements-handlers-js'></script>
+  810: <script src='/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.7.6' id='e-sticky-js'></script>
+  811  

@@ -1,0 +1,133 @@
+
+.depicter-revert.depicter-1{
+	background-color:transparent;
+}
+.depicter-1:not(.depicter-ready){
+	width:1140px;
+	height:888px;
+}
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-11{
+	border-width:2px;
+	border-style:solid;
+	border-color:#ffffff;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-11 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-12{
+	border-width:2px;
+	border-style:solid;
+	border-color:#ffffff;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-12 .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-31{
+	background-color:#ffffff;
+}
+.depicter-revert .depicter-1-element-30{
+	font-size:18px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:135%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-28{
+	font-size:38px;
+	color:#ffffff;
+	font-family:"Josefin Sans";
+	font-weight:600;
+	line-height:120%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-21{
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-14{
+	background-color:#ffffff;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:18px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:135%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:48px;
+	color:#ffffff;
+	font-family:"Josefin Sans";
+	font-weight:600;
+	line-height:120%;
+	text-transform:uppercase;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1{
+	background-color:transparent;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-1:not(.depicter-ready){
+	width:1024px;
+	height:700px;
+}
+.depicter-revert .depicter-1-element-28{
+	font-size:30px;
+	color:#ffffff;
+	font-family:"Josefin Sans";
+	font-weight:600;
+	line-height:120%;
+	text-transform:uppercase;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1:not(.depicter-ready){
+	width:360px;
+	height:740px;
+}
+.depicter-revert .depicter-1-element-30{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:135%;
+}
+.depicter-revert .depicter-1-element-28{
+	font-size:24px;
+	color:#ffffff;
+	font-family:"Josefin Sans";
+	font-weight:600;
+	line-height:120%;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:135%;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:30px;
+	color:#ffffff;
+	font-family:"Josefin Sans";
+	font-weight:600;
+	line-height:120%;
+	text-transform:uppercase;
+}
+
+}
