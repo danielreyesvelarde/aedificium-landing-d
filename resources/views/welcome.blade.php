@@ -13,7 +13,7 @@
 <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Feed de los comentarios" href="/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Comentario Inicio del feed" href="/sample-page/feed/" />
 <script>
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aedificium.test\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -77,7 +77,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script src='/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.7.5' id='font-awesome-4-shim-js'></script>
 <link rel="https://api.w.org/" href="/wp-json/" /><link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.0.2" />
 <link rel="canonical" href="/" />
 <link rel='shortlink' href='/' />
@@ -113,18 +113,22 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
 				<ul id="menu-1-428c069" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active">Inicio</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor">Demo</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://aedificiumbeta.ladricorp.com/#funcionalidades" class="elementor-item elementor-item-anchor">Funcionalidades</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://aedificiumbeta.ladricorp.com/#contacto" class="elementor-item elementor-item-anchor">Contacto</a></li>
+{{--<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="/#demo" class="elementor-item elementor-item-anchor">Demo</a></li>--}}
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="/#funcionalidades" class="elementor-item elementor-item-anchor">Funcionalidades</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="/#contacto" class="elementor-item elementor-item-anchor">Contacto</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://app.aedificium.pe/users/sign_in" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Iniciar Sesión</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://beneficios.aedificium.pe/" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Beneficios</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-428c069" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Inicio</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor" tabindex="-1">Demo</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://aedificiumbeta.ladricorp.com/#funcionalidades" class="elementor-item elementor-item-anchor" tabindex="-1">Funcionalidades</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://aedificiumbeta.ladricorp.com/#contacto" class="elementor-item elementor-item-anchor" tabindex="-1">Contacto</a></li>
+{{--<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="/#demo" class="elementor-item elementor-item-anchor" tabindex="-1">Demo</a></li>--}}
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="/#funcionalidades" class="elementor-item elementor-item-anchor" tabindex="-1">Funcionalidades</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="/#contacto" class="elementor-item elementor-item-anchor" tabindex="-1">Contacto</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://app.aedificium.pe/users/sign_in" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Iniciar Sesión</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://beneficios.aedificium.pe/" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Beneficios</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -148,18 +152,22 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-slide">
 				<ul id="menu-1-3089d00" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active">Inicio</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor">Demo</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://aedificiumbeta.ladricorp.com/#funcionalidades" class="elementor-item elementor-item-anchor">Funcionalidades</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://aedificiumbeta.ladricorp.com/#contacto" class="elementor-item elementor-item-anchor">Contacto</a></li>
+{{--<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="/#demo" class="elementor-item elementor-item-anchor">Demo</a></li>--}}
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="/#funcionalidades" class="elementor-item elementor-item-anchor">Funcionalidades</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="/#contacto" class="elementor-item elementor-item-anchor">Contacto</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://app.aedificium.pe/users/sign_in" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Iniciar Sesión</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://beneficios.aedificium.pe/" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Beneficios</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-3089d00" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-30"><a href="/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Inicio</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://aedificiumbeta.ladricorp.com/#demo" class="elementor-item elementor-item-anchor" tabindex="-1">Demo</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://aedificiumbeta.ladricorp.com/#funcionalidades" class="elementor-item elementor-item-anchor" tabindex="-1">Funcionalidades</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://aedificiumbeta.ladricorp.com/#contacto" class="elementor-item elementor-item-anchor" tabindex="-1">Contacto</a></li>
+{{--<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="/#demo" class="elementor-item elementor-item-anchor" tabindex="-1">Demo</a></li>--}}
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="/#funcionalidades" class="elementor-item elementor-item-anchor" tabindex="-1">Funcionalidades</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="/#contacto" class="elementor-item elementor-item-anchor" tabindex="-1">Contacto</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://app.aedificium.pe/users/sign_in" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Iniciar Sesión</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a href="https://beneficios.aedificium.pe/" target="_blank" class="elementor-item elementor-item-anchor" tabindex="-1">Beneficios</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -181,7 +189,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       <g transform="translate(1 1)" stroke-width="2">
          <circle cx="18" cy="18" r="18" />
          <path d="M36 18c0-9.94-8.06-18-18-18">
-            
+
          </path>
       </g>
    </g>
@@ -305,7 +313,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 								<div class="elementor-element elementor-element-f528d51 elementor-align-center elementor-widget elementor-widget-button" data-id="f528d51" data-element_type="widget" id="memo" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://wa.me/946010429?text=Estoy%20interesado%20quiero%20más%20información" target="_blank" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
@@ -376,11 +384,11 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 						<div class="elementor-icon">
 							<i aria-hidden="true" class="fas fa-stopwatch"></i>						</div>
 					</div>
-				
+
 				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--move-down">Contómetro</h2>
 									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--move-down">
 						Reduce los tiempos de toma de lecturas y pemite que los residentes del edificio o condominio revisen su histórico de consumo.					</div>
-				
+
 									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item elementor-animated-item--move-down">
 					<a class="elementor-cta__button elementor-button elementor-size-sm" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk1NyIsInRvZ2dsZSI6ZmFsc2V9">
 						Haz Clic Aquí					</a>
@@ -407,10 +415,10 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 								<div class="elementor-icon">
 									<i class="fas fa-tablet-alt"></i>								</div>
 							</div>
-						
+
 													<h3 class="elementor-flip-box__layer__title">
 								Pago Multibanco							</h3>
-						
+
 													<div class="elementor-flip-box__layer__description">
 								El Pago Multibanco permitirá a tus clientes realizar pagos utilizando su propio entorno bancario en línea. Por medio de “Pago de Servicios”.							</div>
 											</div>
@@ -421,8 +429,8 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-flip-box__layer__inner">
 											<h3 class="elementor-flip-box__layer__title">
 							Pago Multibanco						</h3>
-					
-					
+
+
 											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjExMzAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
 							Haz Clic Aquí						</a>
 								</div>
@@ -445,10 +453,10 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 								<div class="elementor-icon">
 									<i class="far fa-edit"></i>								</div>
 							</div>
-						
+
 													<h3 class="elementor-flip-box__layer__title">
 								Módulo Asambleas y Encuestas							</h3>
-						
+
 													<div class="elementor-flip-box__layer__description">
 								<ul>
 <li>Realiza encuestas y votaciones en línea.</li>
@@ -463,8 +471,8 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-flip-box__layer__inner">
 											<h3 class="elementor-flip-box__layer__title">
 							Módulo Asambleas y Encuestas						</h3>
-					
-					
+
+
 											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk2NSIsInRvZ2dsZSI6ZmFsc2V9">
 							Haz Clic Aquí						</a>
 								</div>
@@ -487,10 +495,10 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 								<div class="elementor-icon">
 									<i class="far fa-window-restore"></i>								</div>
 							</div>
-						
+
 													<h3 class="elementor-flip-box__layer__title">
 								Gestor de Visitas y Mensajería							</h3>
-						
+
 													<div class="elementor-flip-box__layer__description">
 								<ul>
 <li>Registra datos y fechas sobre tu visitas.</li>
@@ -505,8 +513,8 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-flip-box__layer__inner">
 											<h3 class="elementor-flip-box__layer__title">
 							Gestor de Visitas y Mensajería						</h3>
-					
-					
+
+
 											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk3MyIsInRvZ2dsZSI6ZmFsc2V9">
 							Haz Clic Aquí						</a>
 								</div>
@@ -564,7 +572,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 			<input type="hidden" name="referer_title" value="" />
 
 							<input type="hidden" name="queried_id" value="2"/>
-			
+
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100">
 												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
@@ -709,10 +717,10 @@ Int. 1202					</p>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-08c4404" data-id="08c4404" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3c28e4a elementor-widget elementor-widget-image" data-id="3c28e4a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="http://www.imperiosdigitales.com/" target="_blank">
-							<img width="381" height="24" src="/wp-content/uploads/2022/08/imperio.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>
-															</div>
+{{--				<div class="elementor-widget-container">--}}
+{{--                    <a href="http://www.imperiosdigitales.com/" target="_blank">--}}
+{{--                    <img width="381" height="24" src="/wp-content/uploads/2022/08/imperio.svg" class="attachment-full size-full" alt="" loading="lazy" />								</a>--}}
+{{--                </div>--}}
 				</div>
 					</div>
 		</div>
@@ -723,7 +731,7 @@ Int. 1202					</p>
 							</div>
 		</section>
 						</div>
-		
+
 		<div data-elementor-type="popup" data-elementor-id="957" class="elementor elementor-957 elementor-location-popup" data-elementor-settings="{&quot;close_button_position&quot;:&quot;outside&quot;,&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-5a16187 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5a16187" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -798,13 +806,13 @@ Int. 1202					</p>
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/aedificium.test\/wp-admin\/admin-ajax.php","nonce":"7a6de9cbd0","urls":{"assets":"http:\/\/aedificium.test\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"http:\/\/aedificium.test\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/aedificium.test\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"/wp-admin\/admin-ajax.php","nonce":"7a6de9cbd0","urls":{"assets":"/wp-content\/plugins\/elementor-pro\/assets\/","rest":"/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.6' id='elementor-pro-frontend-js'></script>
 <script src='/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script src='/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
 <script id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"http:\/\/aedificium.test\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":2,"title":"Aedificium%20%E2%80%93%20Aedificium","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":2,"title":"Aedificium%20%E2%80%93%20Aedificium","excerpt":"","featuredImage":false}};
 </script>
 <script src='/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.5' id='elementor-frontend-js'></script>
 <script src='/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.6' id='pro-elements-handlers-js'></script>
