@@ -17,6 +17,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    'email_to' => env('EMAIL_TO', 'ventas@aedificium.pe'),
 
     /*
     |--------------------------------------------------------------------------
