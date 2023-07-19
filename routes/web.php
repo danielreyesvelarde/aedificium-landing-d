@@ -18,7 +18,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('clear', function () {
+Route::get('/clear', function () {
     Artisan::call('cache:clear');
     Artisan::call('route:cache');
     Artisan::call('config:cache');
