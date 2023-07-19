@@ -12,13 +12,6 @@
 <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Feed" href="/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Feed de los comentarios" href="/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Comentario Inicio del feed" href="/sample-page/feed/" />
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
 /*! This file is auto-generated */
