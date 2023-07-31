@@ -7,6 +7,8 @@
 <p>Nombre: {{ $contact['name'] }}</p>
 <p>Correo: {{ $contact['email'] }}</p>
 <p>Mensaje: {{ $contact['message'] }}</p>
+<p>Cargo: {{ $contact['cargo'] }}</p>
+<p>Software: {{ $contact['software'] }}</p>
 
 <p>Landing Aedificium</p>
 </body>

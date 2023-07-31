@@ -29,6 +29,8 @@ class ContactMail extends Mailable
         Log::info("Nombre: ".$this->contact['name']);
         Log::info("Correo: ".$this->contact['email']);
         Log::info("Message: ".$this->contact['message']);
+        Log::info("Cargo: ".$this->contact['cargo']);
+        Log::info("Software: ".$this->contact['software']);
         return $this->subject("Contactar a ". $this->contact['name'])
             ->view('emails.contact')->with([
                 'contact' => $this->contact
