@@ -9,6 +9,8 @@
 <p>Mensaje: {{ $contact['message'] }}</p>
 <p>Cargo: {{ $contact['cargo'] }}</p>
 <p>Software: {{ $contact['software'] }}</p>
+<p>Teléfono: {{ $contact['phone'] }}</p>
+
 
 <p>Landing Aedificium</p>
 </body>
