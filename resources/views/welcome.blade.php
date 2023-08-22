@@ -5,8 +5,11 @@
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Aedificium &#8211; Aedificium</title>
-<meta name='robots' content='noindex, nofollow' />
+	<title>Software de administración de edificios y condominios - Aedificium</title>
+    <meta name="description" content="Optimiza la gestión edificios y condominios y casas playa con Aedificium, tu software líder en administración inmobiliaria.">
+    <meta name="keywords" content="Administración de edificios, software de administración de condominios, sistema de administración de condominios, software administracion de edificios, software para administrar edificios">
+
+    <meta name='robots' content='noindex, nofollow' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Aedificium &raquo; Feed" href="/feed/" />
