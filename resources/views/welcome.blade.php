@@ -11,13 +11,13 @@
     <!-- End Google Tag Manager -->
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MPVD2FP50D"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FV1RJ9DGT"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-MPVD2FP50D');
+        gtag('config', 'G-1FV1RJ9DGT');
     </script>
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -340,7 +340,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 								<div class="elementor-element elementor-element-f528d51 elementor-align-center elementor-widget elementor-widget-button" data-id="f528d51" data-element_type="widget" id="memo" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/946010429?text=Estoy%20interesado%20quiero%20más%20información" target="_blank" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://wa.me/933256340?text=Estoy%20interesado%20quiero%20más%20información" target="_blank" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
@@ -639,7 +639,10 @@ Int. 1202					</p>
 						Teléfonos					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						(+51) 946010429 <br> (+51) 969830648					</p>
+						                (+51) 933256340 <br>
+						                (+51) 946010429 <br>
+                                        (+51) 933240472
+                                    </p>
 							</div>
 		</div>
 				</div>
